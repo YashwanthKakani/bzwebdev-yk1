@@ -1,0 +1,45 @@
+#gmage{
+    padding: 100px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    width: 33%;
+}
+.ip{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33%;
+}
+
+#bt1{
+    display: block;
+    margin-top: 10px;
+    margin-left: 600px;
+    margin-right: 10px;
+    width: 33%;
+}
+#bt2{
+    display: block;
+    margin-top: -21px;
+    margin-left: 800px;
+    width: 33%;
+}
+
+.searchbar{
+    margin-left: 400px;
+    width: 100%;
+    max-width: 700px;
+    background: rgba(255, 255,255,0.2);
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    padding: auto;
+}
+.searchbar input{
+    background: transparent;
+    flex: 1;
+}
