@@ -1,3 +1,7 @@
+body{
+    min-height: 90vh;
+
+}
 nav{
     display: flex;
     gap: 10px;
@@ -10,4 +14,12 @@ nav{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 200px;
+}
+#searchbutton{
+    display: flex;
+    margin-top: 30px;
+    justify-content:center ;
+    align-items: center;
+    gap: 10px;
 }
